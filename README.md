@@ -31,7 +31,8 @@ AI • Data Science • Python • Deep Learning
 ## 🛠 Languages & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,c,git,github,vscode,pandas,numpy,scikitlearn,canva" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,c,git,github,vscode,postgres" />
 </p>
 
 ---
