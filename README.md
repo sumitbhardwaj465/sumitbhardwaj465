@@ -32,7 +32,7 @@ AI • Data Science • Python • Deep Learning
 
 <p>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,c,git,github,vscode,postgres" />
+<img src="https://skillicons.dev/icons?i=python,c,git,github,vscode,postgres,pandas,numpy,scikitlearn" />
 </p>
 
 ---
